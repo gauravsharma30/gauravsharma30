@@ -14,6 +14,8 @@ Pandas
 | Numpy
 | Matplotlib
 | Seaborn
+| Sckit-learn
+| Tensorflow
 
 ## 📫 How to reach me:
 [<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Gaurav on LinkedIn" title="Follow Gaurav on LinkedIn"/>](https://www.linkedin.com/in/gauravsharma300) &nbsp; <a href="mailto:gauravsh.3001@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" /> 
